@@ -7,3 +7,5 @@
  - 第八天 Secret Message一开始不成功，还以为是reset.css出了问题，后来慢慢比对才发现有个地方打错了，修改后又精简了一下，这里很巧妙地把两处信息拼接在一起，实现的方法是使用css的位置分别是fixed和absolute
  - 。。。
  - 第十二天，Day Tracker，主要精华是Js里面的Getday以及每天不同的输出语句
+ - 第十三天，Technicolor Boxes，主要还是Js，最近没空，先留着
+ - 第十四天，More Drop Shadow!，还是Js，留着研究
